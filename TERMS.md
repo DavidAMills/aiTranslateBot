@@ -1,9 +1,3 @@
-
----
-
-### 📄 `TERMS.md`
-
-```markdown
 # Terms of Service
 
 **Effective Date:** May 20, 2025  
@@ -39,4 +33,4 @@ We reserve the right to remove access to the Bot for any user or server, at our 
 We may update these Terms at any time. Continued use of the Bot after changes means you accept the new Terms.
 
 ## 8. Contact
-For questions or support, contact us at: [support@example.com]
+For questions or support, contact us at: [contact@usasci.com]
